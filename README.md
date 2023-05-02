@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dahdiego&label=Profile%20views&color=0e75b6&style=flat" alt="dahdiego" /> </p>
 
-- Now I´m Working at **NClicker and DodgeBit**
+- Now I´m Working at **NClicker and DodgeBit**, two Android Apps on Kotlin.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
